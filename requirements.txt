@@ -1,0 +1,8 @@
+```txt
+numpy
+matplotlib
+scikit-image
+scipy
+torch
+torchvision
+tqdm
