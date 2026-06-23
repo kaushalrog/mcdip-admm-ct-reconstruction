@@ -20,5 +20,3 @@ The project explores a **Multi-Code DIP (MCDIP) ensemble approach** to reduce ov
 - Radon transform for projection simulation
 - Gaussian noise to simulate low-dose conditions
 - Evaluation using PSNR and SSIM
-
-## Files in This Repository
