@@ -1,4 +1,4 @@
-# MCDIP-ADMM: Low-Dose CT Reconstruction
+### MCDIP-ADMM: Low-Dose CT Reconstruction
 
 This repository contains an experimental implementation of an **unsupervised CT image reconstruction framework** based on **ADMM combined with Deep Image Prior (DIP)**.  
 The project explores a **Multi-Code DIP (MCDIP) ensemble approach** to reduce overfitting and improve reconstruction quality in low-dose CT imaging.
